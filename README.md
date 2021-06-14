@@ -4,4 +4,4 @@
 
 1. python -m pip install -r requirements.txt
 2. streamlit run app.py
-3. (button on the website) Run - Live face-recognition / Recommend - Movie-recommendataion
+3. Run - Live face-recognition / Recommend - Movie-recommendataion
