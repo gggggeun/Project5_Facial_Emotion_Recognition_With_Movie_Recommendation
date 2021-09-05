@@ -6,3 +6,7 @@
 1. python -m pip install -r requirements.txt
 2. streamlit run app.py
 3. Run - Live face-recognition / Recommend - Movie-recommendataion
+
+
+-오류발견
+emotion = predicted 해결하기
