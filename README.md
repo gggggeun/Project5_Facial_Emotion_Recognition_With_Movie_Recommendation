@@ -8,5 +8,5 @@
 3. Run - Live face-recognition / Recommend - Movie-recommendataion
 
 
--오류발견
+- 오류발견
 emotion = predicted 해결하기
