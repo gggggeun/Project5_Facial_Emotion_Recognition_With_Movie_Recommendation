@@ -1,5 +1,6 @@
 # Movie-recommendation-with-face-recognition
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8269fbc8-400f-4abb-b368-b2659f7ba598/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8269fbc8-400f-4abb-b368-b2659f7ba598/Untitled.png)
+![image](https://user-images.githubusercontent.com/74692845/132139333-ecc274f6-7d9d-474d-9f74-d51a614ebd20.png)
+
 
 얼굴 표정 감정 분석으로 영화 추천하기
 
